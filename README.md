@@ -52,7 +52,7 @@ Shazwan-Coffee-Shop/
 **Preview**
 
 ![Website Preview](img/preview.png)
-<img width="1440" height="778" alt="Screenshot 2026-06-01 at 6 57 34 AM" src="https://github.com/user-attachments/assets/512657d3-4400-4cbf-8a34-6dcbfe3bf756" />
+<img width="1440" height="778" alt="Screenshot 2026-06-01 at 9 09 15 AM" src="https://github.com/user-attachments/assets/486aeaf1-323f-41fd-b69b-7869ec97f439" />
 
 
 **How to Run the Project**
